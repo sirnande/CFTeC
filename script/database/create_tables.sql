@@ -10,3 +10,8 @@ CREATE TABLE public.teste
     CONSTRAINT teste_pkey PRIMARY KEY (codigo)
 )
 -- As tabelas corretas devem ser criadas a partir daqui.
+
+--Responsavel por esta tabela
+CREATE TABLE public.project  (
+                             
+                             )
